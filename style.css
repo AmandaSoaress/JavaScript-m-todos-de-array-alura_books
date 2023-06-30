@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,500;0,700;1,400&display=swap');
 
 :root {
-  --bg-color: #dbd9d9;
+  --bg-color: branco;
   --button-color:#f52a34;
   --text-title-color:#c9a71e;
   --text-description-color:#dec164;
@@ -178,11 +178,11 @@ body {
     width: 385px;}
   .nav{
     margin: 2rem ;
-   
   }
   .btn{
     height: 100px;
     padding: 5px 3px;
+    margin: 3px;
   }
   .banner {
   height: 101px;}
