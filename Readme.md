@@ -7,12 +7,14 @@
 
 ## Ultilizei: 
 <ul>
-<li>Manipulando o DOM</li>
-<li>Método Filter</li>
-<li>Método ForEach</li>
-<li>Método Map</li>
-<li>Método Sort</li>
-<li>Operador Ternário</li>
+<li>Manipulando o DOM.</li>
+<li>Manipulando HTML com JS</li>
+<li>Método Filter.</li>
+<li>Método ForEach.</li>
+<li>Método Map.</li>
+<li>Método Sort.</li>
+<li>Operador Ternário.</li>
+<li>Método Reduce.</li>
 </ul>
 
 <br>
