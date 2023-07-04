@@ -7,8 +7,8 @@
 
 ## Ultilizei: 
 <ul>
-<li>Manipulando o DOM.</li>
-<li>Manipulando HTML com JS</li>
+<li>Manipulação do DOM.</li>
+<li>Manipulação do HTML com JS</li>
 <li>Método Filter.</li>
 <li>Método ForEach.</li>
 <li>Método Map.</li>
